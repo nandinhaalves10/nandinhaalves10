@@ -1,16 +1,17 @@
-### Hi there 👋
+## Bem vindo ao meu perfilc 🫀
 
-<!--
-**nandinhaalves10/nandinhaalves10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝓜𝓮𝓾 𝓷𝓸𝓶𝓮 𝓮́ 𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓪 𝓐𝓵𝓿𝓮𝓼 🐎
 
-Here are some ideas to get you started:
+-Estou estudando no Alura
+-Estou me desenvolvendo na linguagem Javacript
+-Ultilizo esse espeço para minha organização e comprtilhamento dos seus projetos deenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 👤
+
+@fefeh_alves_10 (insta)
+fernanda.alves10@escola.pr.gov.br
+
+
+
+
+https://media.tenor.com/753VtyeLsH4AAAAC/stitch-sleep-sleep.gif
