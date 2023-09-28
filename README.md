@@ -10,8 +10,4 @@
 
 @fefeh_alves_10 (insta)
 fernanda.alves10@escola.pr.gov.br
-
-
-
-
-https://media.tenor.com/753VtyeLsH4AAAAC/stitch-sleep-sleep.gif
+![](https://media.tenor.com/zLonPUE1uQYAAAAC/disney-lilo-and-stitch2.gif)
